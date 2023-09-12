@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-09-12T11:09:28.242Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="a-tFjXIs5jC87qgaObcm" version="21.3.7" type="device">
+<mxfile host="Electron" modified="2023-09-12T11:29:45.229Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="IAJ8V7ccFKE5GAE-W8qn" version="21.3.7" type="device">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2300" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1436" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1141,6 +1141,18 @@
             <Array as="points">
               <mxPoint x="154" y="980" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R08AXTmpkMaVdlQjnf7-276" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="-20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-R08AXTmpkMaVdlQjnf7-277" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Distância&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-R08AXTmpkMaVdlQjnf7-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.372;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-R08AXTmpkMaVdlQjnf7-276" target="2xq8bCKXOT0d5EsSL52e-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="193.76" y="-55" as="sourcePoint" />
+            <mxPoint x="233.76" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
