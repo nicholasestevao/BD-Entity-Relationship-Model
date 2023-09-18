@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-09-17T17:13:53.234Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="WGtv-kdUnncS7ITstcDz" version="21.3.7" type="device">
+<mxfile host="Electron" modified="2023-09-18T01:54:37.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="go7FdD9iQx_5PrHonSRl" version="21.7.5" type="device">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="6168" dy="6357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="5487" dy="6088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1361,8 +1361,8 @@
         <mxCell id="bvmnDu5d4956HDivuv1t-16" value="Realiza" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40.06" y="1165" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tSNPag-Aemez5CsLtPKz-5" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;Deve ser utilizado o tipo (classe) de nave correto para cada tipo de missão. Se o objetivo da missão é criar uma nova base (Colonização) então a nave utilizada deve ser uma Nave Colonizadora. Analogamente, missões de Exploração devem ser realizadas por Naves Científicas e missões de Comércio devem ser realizadas por Naves de Carga.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="1060.06" y="375" width="350" height="135" as="geometry" />
+        <mxCell id="tSNPag-Aemez5CsLtPKz-5" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;Deve ser utilizado o tipo (classe) de nave correto para cada tipo de missão.&amp;nbsp;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="1060.06" y="375" width="279.94" height="105" as="geometry" />
         </mxCell>
         <mxCell id="tSNPag-Aemez5CsLtPKz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-R08AXTmpkMaVdlQjnf7-161" target="-R08AXTmpkMaVdlQjnf7-161" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1400,6 +1400,90 @@
         </mxCell>
         <mxCell id="A1VincDJ--FerzMNJeqS-1" value="Tem" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="420" y="-195" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-5" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;A missão deve iniciar e terminar em uma base espacial a menos que o objetivo seja criar uma nova base.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1060.06" y="507.5" width="279.94" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-6" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;Toda missão espacial deve ter um objetivo e utilizar apenas uma única nave.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1058.41" y="632.5" width="281.59" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-7" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;A civilização pode deixar de habitar o planeta em que se originou, porém sempre deve ter um planeta de origem.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1059.2399999999998" y="767.5" width="279.94" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-8" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;O comércio só deve ser permitido com civilizações amistosas.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1058.4099999999999" y="905" width="279.94" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-9" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;A classificação da civilização em hostil ou amistosa pode variar (se a ameaça associada a civilização for excluída ela deixa de ser hostil e passa a ser amistosa).&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1060.06" y="1050" width="289.94" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-11" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;A nave espacial pode ser usada em várias missões, se disponível, e deve ter uma base espacial de construção (onde foi fabricada).&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1065.06" y="1210" width="279.94" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-12" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;O planeta pode ter várias bases espaciais mas a base só pertence a um planeta.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1065.0599999999997" y="1380" width="279.94" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-13" value="&lt;p style=&quot;line-height:1.38;text-indent: 36pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;Ameaças podem estar associadas a rotas, planetas ou civilizações, dependendo de sua natureza.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1070.06" y="1510" width="279.94" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-14" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="373.75" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-16" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="507.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-17" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFB570;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="632.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-18" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="770" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-19" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="905" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-20" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#67AB9F;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1050" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-21" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B5739D;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1215" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-22" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AC5EE0;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-23" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFDF61;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1510" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-25" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-287" y="511.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-26" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="219.94" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-27" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFB570;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-79.5" y="785" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-28" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="755" y="40.05000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-29" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="1340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-30" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#67AB9F;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1108.4099999999999" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-35" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B5739D;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="101" y="790" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-36" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B5739D;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-120.25" y="355" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-37" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#AC5EE0;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="425" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-38" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFDF61;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyV0vgaGJai0lLoOhVYZ-40" value="&lt;h1&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Projeto Conceitual: Modelo Entidade-Relacionamento (MER-X)&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-83.5" y="-490" width="844.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
